@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme. The actual look is driven by Compose's Material 3 theme;
+         this only needs to be a valid Material 3 parent with no action bar,
+         since the Compose UI draws its own top bars. -->
+    <style name="Theme.GitHubRepoBrowser" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
