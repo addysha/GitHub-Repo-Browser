@@ -1,9 +1,10 @@
 *.iml
-.gradle
+.gradle/
 /local.properties
 /.idea
 .DS_Store
-/build
+# Ignore Gradle build output in the root and every module (e.g. app/build/).
+build/
 /captures
 .externalNativeBuild
 .cxx
