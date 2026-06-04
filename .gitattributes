@@ -1,0 +1,4 @@
+# Keep the Unix Gradle launcher executable with LF endings on every platform.
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary
